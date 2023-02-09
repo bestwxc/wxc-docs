@@ -4,3 +4,4 @@
    - 0208-02-about-docker-build.md: docker构建命令
    - 0208-03-about-dockerfile.md: Dockerfile文档
    - 0208-04-how-to-build-mult-platform-images.md: 怎么构建多架构镜像 
+   - 0209-01-how-to-configure-docker-service.md: 怎么配置docker
